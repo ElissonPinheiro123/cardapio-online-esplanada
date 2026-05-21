@@ -141,3 +141,7 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Ignore project backup folder\ncardapio-esplanada-vscode/
+
+# Ignore unrelated local folder\ngestao-de-tempo/
