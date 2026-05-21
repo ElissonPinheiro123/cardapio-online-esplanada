@@ -19,35 +19,35 @@ Este projeto apresenta um cardápio digital com:
 
 ## Estrutura do repositório
 
-- index.html
-- style.css
-- script.js
-- README.md
-- ssets/
-- imagens/
+- `index.html`
+- `style.css`
+- `script.js`
+- `README.md`
+- `assets/`
+- `imagens/`
 
-> ssets/ e imagens/ contêm os arquivos de imagens e recursos do projeto.
+> `assets/` e `imagens/` contêm os arquivos de imagens e recursos do projeto.
 
 ## Como executar
 
 1. Clone o repositório:
 
-`ash
+```bash
 git clone https://github.com/ElissonPinheiro123/cardapio-online-esplanada.git
-`
+```
 
 2. Entre na pasta do projeto:
 
-`ash
+```bash
 cd cardapio-online-esplanada
-`
+```
 
-3. Abra index.html no navegador ou use uma extensão como Live Server no VS Code.
+3. Abra `index.html` no navegador ou use uma extensão como Live Server no VS Code.
 
 ## Observações
 
 - O projeto foi organizado para publicação como um site estático.
-- As pastas ssets/ e imagens/ estão incluídas neste repositório.
+- As pastas `assets/` e `imagens/` estão incluídas neste repositório.
 
 ## Contato
 
