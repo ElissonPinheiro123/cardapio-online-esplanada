@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f4e8d0"/>
+  <circle cx="400" cy="200" r="150" fill="#9b1f2f" opacity="0.2"/>
+  <text x="400" y="200" font-size="80" fill="#9b1f2f" text-anchor="middle" font-family="Arial" dominant-baseline="central">🍕 Cardápio Online</text>
+</svg>
